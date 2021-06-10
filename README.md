@@ -27,7 +27,7 @@ start kn_carwash
 ```
 
 ## Showcase
-- Video https://youtu.be/QQHSKGB_x54
+- Video https://streamable.com/d41fqf
 
 ## Features
 
