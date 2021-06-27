@@ -88,7 +88,7 @@ function toggleMenu(option)
             action = 'open',
             amount = Config.Price
         })
-    elseif not option then
+    else -- doesn't need another if..
         SetNuiFocus(false, false)
         SendNUIMessage({
             action = 'close'
